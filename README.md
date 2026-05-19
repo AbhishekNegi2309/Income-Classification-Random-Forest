@@ -55,6 +55,8 @@ Income-Classification-Random-Forest/
 │   ├── Confusion Matrix
 │   └── Classification Report
 │
+├──Pipeline-Income-Classifier
+│
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
